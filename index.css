@@ -1,0 +1,95 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos del encabezado */
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  color: #b71c1c;
+}
+
+p {
+  color: #666;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Estilos de la sección "Inicio" */
+#inicio {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #F49AC2;
+  border: 1px solid #e6c1c7;
+  border-radius: 4px;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%; /* Agrega bordes redondeados al 50% del tamaño de la imagen */
+}
+
+
+/* Estilos de la sección "Biografía" */
+#habilidades {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #FFDAC1;
+  border: 1px solid #e6c1c7;
+  border-radius: 4px;
+}
+
+
+/* Estilos de la sección "Proyectos" */
+#proyectos {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #77DD77;
+  border: 1px solid #e6c1c7;
+  border-radius: 4px;
+}
+
+/* Estilos de la sección "Contacto" */
+#contacto {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #B39EB5;
+  border: 1px solid #e6c1c7;
+  border-radius: 4px;
+}
+
+/* Estilos del pie de página */
+footer {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
